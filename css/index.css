@@ -1,4 +1,9 @@
 body {
 	display: grid;
-	grid-template-columns: 2fr 8fr
+	grid-template-columns: 2fr 8fr;
+}
+
+li:hover {
+	cursor: pointer;
+	color: skyblue;
 }
